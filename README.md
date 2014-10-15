@@ -11,6 +11,7 @@ You need my [game2d](https://github.com/wiebow/game2d.mod) framework to compile 
 
 You can edit the levels by modifying the level.txt files in the media subfolder.
 
+![bd](https://dl.dropboxusercontent.com/u/12644619/pics/dev/bd/bd1.png)
 
 License
 -------------------------------------------------------------------------------

@@ -42,7 +42,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-*.gradle
-*.sublime-workspace
-*.sublime-project
 *.ini

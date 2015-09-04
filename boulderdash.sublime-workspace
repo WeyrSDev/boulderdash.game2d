@@ -1,0 +1,1537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"consumable"
+			],
+			[
+				"times",
+				"timesTomoveX"
+			],
+			[
+				"chan",
+				"change"
+			],
+			[
+				"time",
+				"timesTomoveY"
+			],
+			[
+				"_targ",
+				"_targetVector"
+			],
+			[
+				"_ra",
+				"_targetVector"
+			],
+			[
+				"adden",
+				"addentity	addentity"
+			],
+			[
+				"Add",
+				"AddEntityGroup"
+			],
+			[
+				"frame",
+				"frameAmount"
+			],
+			[
+				"las",
+				"lastUpdateFrame"
+			],
+			[
+				"entity",
+				"entityGroup"
+			],
+			[
+				"map",
+				"mapdata"
+			],
+			[
+				"AMOE",
+				"AMOEBADELAY"
+			],
+			[
+				"amoeb",
+				"amoebaslow"
+			],
+			[
+				"amoe",
+				"amoebamax"
+			],
+			[
+				"diam",
+				"diamondextrascore"
+			],
+			[
+				"DIAMN",
+				"DIAMONDVALUE"
+			],
+			[
+				"play",
+				"playTime"
+			],
+			[
+				"id",
+				"idleDelay"
+			],
+			[
+				"pla",
+				"playerBirthFrame"
+			],
+			[
+				"line",
+				"lineIndex"
+			],
+			[
+				"adde",
+				"addentity	addentity"
+			],
+			[
+				"setent",
+				"setentityposition	setentityposition"
+			],
+			[
+				"addres",
+				"addresourceimage	addresourceimage"
+			],
+			[
+				"inc",
+				"include	include"
+			],
+			[
+				"draw",
+				"drawimage	drawimage"
+			],
+			[
+				"tile",
+				"tileType"
+			],
+			[
+				"int",
+				"Int"
+			],
+			[
+				"die",
+				"directions"
+			],
+			[
+				"add",
+				"addentity	addentity"
+			],
+			[
+				"Coll",
+				"CollideWithGroup"
+			],
+			[
+				"TIma",
+				"TImageEntity"
+			],
+			[
+				"Get",
+				"GetPosition"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"wind",
+				"windowWidth"
+			],
+			[
+				"Gr",
+				"GraphicsModeExists"
+			],
+			[
+				"entit",
+				"entityGroup"
+			],
+			[
+				"render",
+				"renderLayer"
+			],
+			[
+				"Ten",
+				"TEntityManager"
+			],
+			[
+				"AddEn",
+				"AddEntityGroup"
+			],
+			[
+				"TEn",
+				"TEntityManager"
+			],
+			[
+				"name",
+				"groupName"
+			],
+			[
+				"for",
+				"for-to	for-to"
+			],
+			[
+				"debug",
+				"debuglog	debuglog"
+			],
+			[
+				"Create",
+				"CreateGraphics"
+			],
+			[
+				"sechv",
+				"setchannelvolume	setchannelvolume"
+			],
+			[
+				"setch",
+				"setchannelvolume	setchannelvolume"
+			],
+			[
+				"Remo",
+				"RemoveEntity"
+			],
+			[
+				"Gam",
+				"GameWidth"
+			],
+			[
+				"_sh",
+				"_shakeRadius"
+			],
+			[
+				"_sha",
+				"_shakeVector"
+			],
+			[
+				"_shak",
+				"_shakeVector"
+			],
+			[
+				"TE",
+				"TEntity"
+			],
+			[
+				"retur",
+				"Return"
+			],
+			[
+				"men",
+				"menuB"
+			],
+			[
+				"_po",
+				"_previousPosition"
+			],
+			[
+				"delo",
+				"debuglog	debuglog"
+			],
+			[
+				"_gameh",
+				"_gameHeight"
+			],
+			[
+				"_game",
+				"_gameWidth"
+			],
+			[
+				"grap",
+				"Graphics"
+			],
+			[
+				"monio",
+				"monitorAdjust"
+			],
+			[
+				"_",
+				"_iniFile"
+			],
+			[
+				"open",
+				"openGL"
+			],
+			[
+				"Desktop",
+				"DesktopDepth"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"TGF",
+				"TGfxManager"
+			],
+			[
+				"full",
+				"fullscreenDepth"
+			],
+			[
+				"fuls",
+				"fullscreenHeight"
+			],
+			[
+				"secol",
+				"setcolor	setcolor"
+			],
+			[
+				"des",
+				"DesktopDepth"
+			],
+			[
+				"desk",
+				"DesktopHeight"
+			],
+			[
+				"Desk",
+				"DesktopWidth"
+			],
+			[
+				"mo",
+				"monitorAdjust"
+			],
+			[
+				"mn",
+				"monitorAdjust"
+			],
+			[
+				"_gam",
+				"_gameWidth"
+			],
+			[
+				"fulls",
+				"fullscreenDepth"
+			],
+			[
+				"fullsc",
+				"fullscreenHeight"
+			],
+			[
+				"ful",
+				"fullscreenDepth"
+			],
+			[
+				"TV",
+				"TVirtualGfx"
+			],
+			[
+				"TGa",
+				"TGraphicsMode"
+			],
+			[
+				"TGrah",
+				"TGraphicsMode"
+			],
+			[
+				"arra",
+				"arrayIndex"
+			],
+			[
+				"this",
+				"thisMode"
+			],
+			[
+				"TGrap",
+				"TGraphicsMode"
+			],
+			[
+				"Tg",
+				"TGraphicsMode"
+			],
+			[
+				"Render",
+				"RenderText"
+			],
+			[
+				"setc",
+				"setcolor	setcolor"
+			],
+			[
+				"Star",
+				"StartConfiguring"
+			],
+			[
+				"TG",
+				"TGfxManager"
+			],
+			[
+				"TInput",
+				"TInputManager"
+			],
+			[
+				"req",
+				"RequestStop"
+			],
+			[
+				"thi",
+				"thisKey"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"if",
+				"if-then	if-then"
+			],
+			[
+				"cno",
+				"controls"
+			],
+			[
+				"is",
+				"IsConfiguring"
+			],
+			[
+				"joy",
+				"joypadcount"
+			],
+			[
+				"MODE_JOYPAD",
+				"MODE_JOYPAD_ID"
+			],
+			[
+				"MODE",
+				"MODE_JOYPAD_ID"
+			],
+			[
+				"MODE_",
+				"MODE_JOYPAD_ID"
+			],
+			[
+				"joyp",
+				"joypadMode"
+			],
+			[
+				"Re",
+				"Return"
+			],
+			[
+				"MO",
+				"MODE_JOYPAD"
+			],
+			[
+				"Set",
+				"SetManager"
+			],
+			[
+				"TEN",
+				"TEntityManger"
+			],
+			[
+				"TEntit",
+				"TEntityManger"
+			],
+			[
+				"_scal",
+				"_scaleY"
+			],
+			[
+				"_scla",
+				"_scaleX"
+			],
+			[
+				"ass",
+				"AssertEquals"
+			],
+			[
+				"Remove",
+				"RemoveEntityFromGroup"
+			],
+			[
+				"getgr",
+				"GetGroupName"
+			],
+			[
+				"asser",
+				"assertsame	assertsame"
+			],
+			[
+				"as",
+				"assertsame	assertsame"
+			],
+			[
+				"Ass",
+				"AssertSame"
+			],
+			[
+				"asse",
+				"asserttrue	asserttrue"
+			],
+			[
+				"_en",
+				"_entityList"
+			],
+			[
+				"assn",
+				"assertnotnull	assertnotnull"
+			],
+			[
+				"test",
+				"test-method	test-method"
+			],
+			[
+				"group",
+				"groupName"
+			],
+			[
+				"target",
+				"targetVector"
+			],
+			[
+				"f",
+				"Field"
+			],
+			[
+				"te",
+				"test-method	test-method"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"TRes",
+				"TResourceManager"
+			],
+			[
+				"soun",
+				"soundName"
+			],
+			[
+				"grou",
+				"groupName"
+			],
+			[
+				"image",
+				"imageName"
+			],
+			[
+				"object",
+				"objectName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "boulderdash.bmx",
+			"settings":
+			{
+				"buffer_size": 1591,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "playstate.bmx",
+			"settings":
+			{
+				"buffer_size": 20299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tileentity.bmx",
+			"settings":
+			{
+				"buffer_size": 7633,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "animation.bmx",
+			"settings":
+			{
+				"buffer_size": 4350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "map2d.bmx",
+			"settings":
+			{
+				"buffer_size": 4528,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Gradle: Build boulderdash",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bli",
+				"Set Syntax: BlitzMax"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"bmx",
+			"os.getenv(\"PATH\")",
+			"path",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wiebo/Dropbox/Development/BlitzMax/projects/public/boulderdash.game2d/cavecam.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/moving.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/map2d.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/tileentity.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/animation.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/boulderdash.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/boulderdash.sublime-project",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/build.gradle",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/tile.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/projects/boulderdash/tilemap.bmx",
+		"/D/Tools/Sublime Text Build 3059 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Tools/Sublime Text Build 3059 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/source/manager/TGfxManager.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/wdw/game2d/setentityposition.sublime-snippet",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/game2d.sublime-project",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/source/script/game2d.lua",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/test/source/game_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/source/TGame.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/game2d.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/source/TVirtualGfx.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/source/entity/TImageEntity.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/wdw.mod/game2d.mod/source/entity/TEntity.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TInput.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TImageEntity.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TEntityManager.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/functions.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/wdw/game2d/game.sublime-snippet",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TVirtualGfx.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/transition/TTransitionFadeIn.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/entitymanager_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/game_test.bmx.bak",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TGame.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/game2d.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/wdw/game2d/removeentitygroup.sublime-snippet",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/entity_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TEntity.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/wdw/game2d/clearentities.sublime-snippet",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TGfxManager.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TResourceManager.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/wdw/game2d/clearresources.sublime-snippet",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/resourcemanager_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TInputManager.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/service_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/state_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/transition_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/input_test.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/transition/TTransitionFadeOut.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TKeyControl.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TControl.bmx",
+		"/C/Users/Wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TCameraEntity.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TImageEntity.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/game2d.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TVirtualGfx.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/build.gradle",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TGame.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/transition_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/TState.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/state_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/service_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/entitymanager_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TControl.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/common.mod/source/TBag.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TInput.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/entity_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/functions.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TEntity.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TInputManager.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TCameraEntity.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TInputManager.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TCameraEntity.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TEntityManager.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TImageEntity.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/entitymanager_test.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/entity_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TGfxManager.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/vector2d.mod/source/TVector2D.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TPosition.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/resourcemanager_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TEntityManager.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/game_test.bmx.bak",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/media/bullet.wav",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/mocks.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/input_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/game_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/unit_test.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/unit_test",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/transition/TTransitionFadeIn.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TKeyControl.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TGfx.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TFixedTime.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/doc/commands.html",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/game2d.sublime-project",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/script/game2d.lua",
+		"/D/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/array_iterate.sublime-snippet",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TResourceManager.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/8894a6fd-9097-4641-a590-c1c8e12b0b47.dmp",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/transition/TTransitionFadeOut.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/transition/TTransitionEmpty.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TGfx.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TControl.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/sublime-text-3/Packages/User/blitzmax-snippets/wdw/bag_iterate.sublime-snippet",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TResourceManager.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/unit_test.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/build.gradle",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TPosition.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TEntityManager.bmx",
+		"/C/Users/wiebo.de.wit/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TEntity.bmx",
+		"/D/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/script/TLua.bmx",
+		"/D/Dropbox/Development/BlitzMax/modules/muttley.mod/inifilehandler.mod/src/TINIFile.bmx",
+		"/D/Dropbox/Development/BlitzMax/modules/muttley.mod/inifilehandler.mod/src/TINIValue.bmx",
+		"/D/Dropbox/Development/BlitzMax/modules/muttley.mod/inifilehandler.mod/src/TINIParameter.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/resourcemanager_test.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/manager/TResourceManager.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TEntityManager.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TFixedTime.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TRenderLayers.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/TGame.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/functions.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/state/TState.bmx",
+		"/D/Dropbox/Development/Sublime Text/Packages/User/blitzmax-snippets/singleton.sublime-snippet",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TControl.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/game2d.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/input/TInput.bmx",
+		"/home/wiebo/BlitzMax/mod/brl.mod/audio.mod/audio.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/source/game_test.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/unit_test.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/test/implementations/menutest/menutest.bmx",
+		"/home/wiebo/Dropbox/Development/BlitzMax/noisycode/wdw.mod/game2d.mod/source/entity/TEntity.bmx"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\Dropbox\\Development\\BlitzMax\\noisycode\\wdw.mod\\game2d.mod",
+			"all files,<open folders>",
+			"all files",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wall",
+			"flash",
+			"Width()",
+			"Set",
+			"SetType",
+			"Tile.",
+			"map",
+			"Moving.",
+			"move(",
+			"Enttity",
+			"Tile",
+			":Void",
+			"Tile",
+			"Dir.",
+			"Tile",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"tile.",
+			"Tile.",
+			"][",
+			":Tile",
+			"][",
+			"Dir.",
+			":Tile",
+			":Bool",
+			"KeyDown",
+			"Moving.",
+			"Tile.",
+			"tile",
+			"Tile",
+			"Tile.",
+			"Dir.",
+			"dir",
+			"Dir",
+			"Dir.",
+			"Tile",
+			"Dir.",
+			"Tile",
+			"Dir.",
+			"Tile",
+			"Dir.",
+			"Tile",
+			"Dir.",
+			"Tile",
+			"Tile.",
+			"Dir.",
+			"Dir",
+			"Tile",
+			"Dir",
+			"+=",
+			"Dir",
+			"Bool",
+			"this.",
+			"caves",
+			"Bool",
+			"Class",
+			"Tile.",
+			"i,",
+			"mapY",
+			"mapX",
+			"mapArray",
+			"+=",
+			"mapData",
+			"cave",
+			"Cave",
+			"\n	",
+			"anim",
+			"+=",
+			":Void",
+			"Sprite",
+			"Bool",
+			", 0, 0",
+			"FRAME_",
+			"New TAnim(TAnim.",
+			"FRAME_",
+			"IMAGE_",
+			":Void",
+			"New TAnim",
+			"Self.",
+			"Tsprite",
+			"IMAGE_",
+			"Sprite",
+			"Dir",
+			"dir",
+			"Dir",
+			"Bool",
+			"Moving",
+			"Method",
+			"method",
+			"Method",
+			"object",
+			"scree",
+			"RED",
+			"GetRenderY",
+			"debuglog",
+			"print",
+			"debuglog",
+			"graphics",
+			"_config",
+			"config",
+			"VirtualGfx",
+			"_input",
+			"_game",
+			"configuringIndex",
+			"pause",
+			"_layers",
+			"_entities",
+			"_groups",
+			"_layers",
+			"_entities",
+			"viewPort",
+			"viewport",
+			"viewPort"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"TTile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "boulderdash.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "playstate.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tileentity.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "animation.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1033,
+								1033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "map2d.bmx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4157,
+								4157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/BlitzMax/BlitzMax.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 332.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.package_dev":
+	{
+		"height": 142.0
+	},
+	"project": "boulderdash.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"map",
+				"map2d.bmx"
+			],
+			[
+				"tile",
+				"tileentity.bmx"
+			],
+			[
+				"an",
+				"animation.bmx"
+			],
+			[
+				"mov",
+				"moving.bmx"
+			],
+			[
+				"bou",
+				"boulderdash.bmx"
+			],
+			[
+				"anim",
+				"animation.bmx"
+			],
+			[
+				"tilen",
+				"tileentity.bmx"
+			],
+			[
+				"tileen",
+				"tileentity.bmx"
+			],
+			[
+				"bl",
+				"boulderdash.bmx"
+			],
+			[
+				"mo",
+				"moving.bmx"
+			],
+			[
+				"tileent",
+				"tileentity.bmx"
+			],
+			[
+				"gam",
+				"game2d.bmx"
+			],
+			[
+				"imen",
+				"source\\entity\\TImageEntity.bmx"
+			],
+			[
+				"ten",
+				"source\\entity\\TEntity.bmx"
+			],
+			[
+				"gfx",
+				"source\\manager\\TGfxManager.bmx"
+			],
+			[
+				"tinpman",
+				"source\\manager\\TInputManager.bmx"
+			],
+			[
+				"entmante",
+				"test\\source\\entitymanager_test.bmx"
+			],
+			[
+				"enma",
+				"source\\manager\\TEntityManager.bmx"
+			],
+			[
+				"resm",
+				"source\\manager\\TResourceManager.bmx"
+			],
+			[
+				"entes",
+				"test\\source\\entitymanager_test.bmx"
+			],
+			[
+				"inputma",
+				"source\\manager\\TInputManager.bmx"
+			],
+			[
+				"f",
+				"source\\functions.bmx"
+			],
+			[
+				"trans",
+				"source\\state\\transition\\TTransitionFadeIn.bmx"
+			],
+			[
+				"tranou",
+				"source\\state\\transition\\TTransitionFadeOut.bmx"
+			],
+			[
+				"fad",
+				"source\\state\\transition\\TTransitionFadeIn.bmx"
+			],
+			[
+				"tke",
+				"source\\input\\TKeyControl.bmx"
+			],
+			[
+				"con",
+				"source\\input\\TControl.bmx"
+			],
+			[
+				"ent",
+				"source\\entity\\TEntity.bmx"
+			],
+			[
+				"enrma",
+				"source\\manager\\TEntityManager.bmx"
+			],
+			[
+				"inp",
+				"source\\manager\\TInputManager.bmx"
+			],
+			[
+				"g2d",
+				"game2d.bmx"
+			],
+			[
+				"stat",
+				"source\\state\\TState.bmx"
+			],
+			[
+				"tcam",
+				"source\\entity\\TCameraEntity.bmx"
+			],
+			[
+				"tg",
+				"source\\TGame.bmx"
+			],
+			[
+				"inma",
+				"source\\manager\\TInputManager.bmx"
+			],
+			[
+				"tgam",
+				"source\\TGame.bmx"
+			],
+			[
+				"fun",
+				"source\\functions.bmx"
+			],
+			[
+				"enmate",
+				"test\\source\\entitymanager_test.bmx"
+			],
+			[
+				"enmat",
+				"test\\source\\entitymanager_test.bmx"
+			],
+			[
+				"en",
+				"source\\entity\\TImageEntity.bmx"
+			],
+			[
+				"tenma",
+				"source\\manager\\TEntityManager.bmx"
+			],
+			[
+				"enty",
+				"source\\entity\\TEntity.bmx"
+			],
+			[
+				"cam",
+				"source\\entity\\TCameraEntity.bmx"
+			],
+			[
+				"iment",
+				"source\\entity\\TImageEntity.bmx"
+			],
+			[
+				"entma",
+				"source/manager/TEntityManager.bmx"
+			],
+			[
+				"pos",
+				"source\\entity\\TPosition.bmx"
+			],
+			[
+				"ca",
+				"source\\entity\\TCameraEntity.bmx"
+			],
+			[
+				"gf",
+				"source\\TVirtualGfx.bmx"
+			],
+			[
+				"func",
+				"source\\functions.bmx"
+			],
+			[
+				"tga",
+				"source\\TGame.bmx"
+			],
+			[
+				"test",
+				"test\\source\\game_test.bmx.bak"
+			],
+			[
+				"inman",
+				"source\\manager\\TInputManager.bmx"
+			],
+			[
+				"",
+				"source\\manager\\TEntityManager.bmx"
+			],
+			[
+				"inpman",
+				"source\\manager\\TInputManager.bmx"
+			],
+			[
+				"inptes",
+				"test\\source\\input_test.bmx"
+			],
+			[
+				"gfxm",
+				"source\\manager\\TGfxManager.bmx"
+			],
+			[
+				"tcon",
+				"source\\input\\TControl.bmx"
+			],
+			[
+				"i",
+				"source\\input\\TInput.bmx"
+			],
+			[
+				"inpt",
+				"test\\source\\input_test.bmx"
+			],
+			[
+				"imgen",
+				"source\\entity\\TImageEntity.bmx"
+			],
+			[
+				"tenit",
+				"source\\entity\\TEntity.bmx"
+			],
+			[
+				"imgent",
+				"source\\entity\\TImageEntity.bmx"
+			],
+			[
+				"camer",
+				"source\\entity\\TCameraEntity.bmx"
+			],
+			[
+				"posi",
+				"source\\entity\\TPosition.bmx"
+			],
+			[
+				"tcamen",
+				"source\\entity\\TCameraEntity.bmx"
+			],
+			[
+				"tente",
+				"test\\source\\entity_test.bmx"
+			],
+			[
+				"tent",
+				"source\\entity\\TEntity.bmx"
+			],
+			[
+				"mante",
+				"test\\source\\entitymanager_test.bmx"
+			],
+			[
+				"teny",
+				"source\\entity\\TEntity.bmx"
+			],
+			[
+				"im",
+				"source/entity/TImageEntity.bmx"
+			],
+			[
+				"sta",
+				"source/state/TState.bmx"
+			],
+			[
+				"resou",
+				"source/manager/TResourceManager.bmx"
+			],
+			[
+				"rema",
+				"source/manager/TResourceManager.bmx"
+			],
+			[
+				"rete",
+				"test/source/resourcemanager_test.bmx"
+			],
+			[
+				"in",
+				"source/input/TInput.bmx"
+			],
+			[
+				"ga",
+				"game2d.bmx"
+			],
+			[
+				"gamte",
+				"test/source/game_test.bmx"
+			],
+			[
+				"game",
+				"source/TGame.bmx"
+			],
+			[
+				"em",
+				"source/entity/TEntityManager.bmx"
+			],
+			[
+				"tim",
+				"source/entity/TImageEntity.bmx"
+			],
+			[
+				"reos",
+				"test/source/resourcemanager_test.bmx"
+			],
+			[
+				"rerou",
+				"source/state/transition/TTransitionFadeOut.bmx"
+			],
+			[
+				"unittbm",
+				"test/unit_test.bmx"
+			],
+			[
+				"reste",
+				"test/source/resourcemanager_test.bmx"
+			],
+			[
+				"retes",
+				"test/source/resourcemanager_test.bmx"
+			],
+			[
+				"tentit",
+				"source/entity/TEntity.bmx"
+			],
+			[
+				"vec",
+				"source/common/TVector2D.bmx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Wiebo\\Dropbox\\Development\\BlitzMax\\wdw.mod\\game2d.mod\\game2d.sublime-project"
+			],
+			[
+				"c omm",
+				"D:\\Dropbox\\Development\\BlitzMax\\noisycode\\wdw.mod\\common.mod\\common.sublime-project"
+			],
+			[
+				"cv",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/vectorengine/vectorengine.sublime-project"
+			],
+			[
+				"ast",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/asteroids.sublime-project"
+			],
+			[
+				"gam",
+				"/home/wiebo/BlitzMax/mod/wdw.mod/game2d.mod/game2d.sublime-project"
+			],
+			[
+				"as",
+				"/home/wiebo/Dropbox/Development/BlitzMax/projects/asteroids/asteroids.sublime-project"
+			]
+		],
+		"width": 656.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
